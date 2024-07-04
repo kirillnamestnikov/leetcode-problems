@@ -1,2 +1,2 @@
-# leetcode-problems
-Leetcode problems solutions
+# Leetcode problems solutions
+### Created this repo to prepare for coding interviews
