@@ -14,7 +14,7 @@ public:
         }
         else
         {
-            digits[pos]++;
+            ++digits[pos];
         }
         return digits;
     }
